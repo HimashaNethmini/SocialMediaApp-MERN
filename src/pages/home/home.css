@@ -1,0 +1,8 @@
+/* divide the home into 3 sections */
+.Home{
+    position: relative;
+    display: grid;
+    grid-template-columns: 18rem auto 20rem; /*divide */
+    gap: 1rem;
+
+}
