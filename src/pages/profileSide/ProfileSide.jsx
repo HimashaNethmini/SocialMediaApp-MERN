@@ -1,9 +1,11 @@
 import React from 'react'
 import "./profileSide.css"
+import LogoSearch from '../../components/LogoSearch/LogoSearch'
 
 const ProfileSide = () => {
   return (
-    <div className='ProfileSide'>hxjx
+    <div className='ProfileSide'>
+      <LogoSearch />
     </div>
   )
 }
